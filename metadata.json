@@ -1,0 +1,7 @@
+{
+  "name": "싫다고 말해요 (Easy Refusal)",
+  "description": "어려운 거절, AI가 도와드립니다. 상황과 톤을 입력하면 상처 주지 않는 세련된 거절 문구를 생성해주는 앱입니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
